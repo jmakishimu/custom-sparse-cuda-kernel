@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: block_sparse_ext
+Version: 0.0.1
+Summary: Block-Sparse MatMul Extension
+Author: Your Name
+Dynamic: author
+Dynamic: summary
